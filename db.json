@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Ipsum aute esse pariatur eu fugiat labore.",
+      "date": "08 Oct, 2022 09:15 PM",
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "task": "Ipsum aute esse pariatur eu fugiat labore.",
+      "date": "08 Oct, 2022 09:15 PM",
+      "status": "In Progress"
+    },
+    {
+      "task": "vxdgdf",
+      "date": "11th Oct, 2022 8:24 PM",
+      "status": "Completed",
+      "id": 3
+    },
+    {
+      "task": "vxdgdf",
+      "date": "11th Oct, 2022 8:24 PM",
+      "status": "In Progress",
+      "id": 4
+    },
+    {
+      "task": "dghgdhd",
+      "date": "20th Oct, 2022 10:38 PM",
+      "status": "In Progress",
+      "id": 6
+    },
+    {
+      "task": "gddf gdfgfdsfd",
+      "date": "20th Oct, 2022 10:38 PM",
+      "status": "In Progress",
+      "id": 7
+    },
+    {
+      "task": "gddf gdfgfdsfd dfgfdgdgd",
+      "date": "20th Oct, 2022 10:38 PM",
+      "status": "In Progress",
+      "id": 8
+    },
+    {
+      "task": "dghgdh dfgfd",
+      "date": "18th Oct, 2022 8:02 AM",
+      "status": "In Progress",
+      "id": 9
+    }
+  ]
+}
